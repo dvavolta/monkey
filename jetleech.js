@@ -29,8 +29,10 @@
 // @match       https://lucidcam.com/*
 // @match       https://www.restorbio.com/*
 // @grant       none
+// @updateURL   https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
+// @downloadURL https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
 // @version     1.0
-// @author      -
+// @author      dvavolta
 // @description 03.03.2022, 18:17:49
 // ==/UserScript==
 
