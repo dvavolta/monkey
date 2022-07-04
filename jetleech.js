@@ -77,6 +77,10 @@ window.addEventListener("load", function() {
     const n = document.getElementsByClassName("btn btn-primary")[0];
     if (n) n.click();
   },4000);
+             setInterval(function() {
+    const n = document.getElementsByClassName("btn btn-primary")[2];
+    if (n) n.click();
+  },4000);
               setInterval(function() {
     const o = document.getElementsByClassName("btn btn-success btn-lg get-link")[0];
     if (o) o.click();
