@@ -9,7 +9,6 @@
 // @match       https://publicananker.com/*
 // @match       https://informaxonline.com/*
 // @match       https://link1s.com/*
-// @match       https://gaminplay.com/*
 // @match       https://go.adslinkfly.online/*
 // @match       https://tei.ai/*
 // @match       https://makemoneywithurl.com/*
