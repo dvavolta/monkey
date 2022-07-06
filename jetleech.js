@@ -32,7 +32,7 @@
 // @grant       none
 // @updateURL   https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
 // @downloadURL https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
-// @version     1.101
+// @version     1.2
 // @author      dvavolta
 // @description 03.03.2022, 18:17:49
 // ==/UserScript==
