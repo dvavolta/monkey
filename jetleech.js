@@ -28,6 +28,7 @@
 // @match       https://world-trips.net/*
 // @match       https://lucidcam.com/*
 // @match       https://www.restorbio.com/*
+// @match       https://noithatmyphu.vn/*
 // @grant       none
 // @updateURL   https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
 // @downloadURL https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
@@ -165,5 +166,13 @@ window.addEventListener("load", function() {
     if (a78) a8.click();
   },5000);
 
+                              setInterval(function() {
+    const a9 = document.querySelector("#wpsafelinkhuman > img");
+    if (a9) a9.click();
+  },5000);
 
+                                setInterval(function() {
+    const a10 = document.querySelector("#wpsafe-generate > a > img");
+    if (a10) a10.click();
+  },5000);
 });
