@@ -32,7 +32,7 @@
 // @grant       none
 // @updateURL   https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
 // @downloadURL https://raw.githubusercontent.com/dvavolta/monkey/main/jetleech.js
-// @version     1.1
+// @version     1.101
 // @author      dvavolta
 // @description 03.03.2022, 18:17:49
 // ==/UserScript==
@@ -174,5 +174,9 @@ window.addEventListener("load", function() {
                                 setInterval(function() {
     const a10 = document.querySelector("#wpsafe-generate > a > img");
     if (a10) a10.click();
+  },5000);
+                                  setInterval(function() {
+    const a11 = document.querySelector("#wpsafe-link > a > img");
+    if (a11) a11.click();
   },5000);
 });
